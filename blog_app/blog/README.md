@@ -7,5 +7,5 @@ This helped me understand the intricacies of a rails app and will further propel
 
 
 screenshot:
-![Screenshot](/Blog.JPG "Screenshot blog web app")
+![Screenshot](https://raw.github.com/kirrk/RubyWinter2014/master/blog_app/blog/Blog.JPG "Screenshot blog web app")
 
