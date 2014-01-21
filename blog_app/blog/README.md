@@ -7,5 +7,5 @@ This helped me understand the intricacies of a rails app and will further propel
 
 
 screenshot:
-![Screenshot](/Blog.png "Screenshot blog web app")
+![Screenshot](/Blog.JPG "Screenshot blog web app")
 
