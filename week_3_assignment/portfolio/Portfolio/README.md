@@ -8,4 +8,4 @@ screenshots:
 
 Portfolio integrating scaffolding:
 
-![Screenshot](https://raw.github.com/kirrk/RubyWinter2014/master/portfolio/Portfolio/screenshots/Portfolio_1.png "Screenshot of passing portfolio scaffold")
+![Screenshot](https://github.com/kirrk/RubyWinter2014/blob/master/week_3_assignment/portfolio/Portfolio/screenshots/Portfolio_1.png "Screenshot of passing portfolio scaffold")
