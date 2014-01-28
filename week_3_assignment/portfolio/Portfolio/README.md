@@ -6,4 +6,6 @@ A simple welcome web page integrating BDD testing:
 screenshots:
 ![Screenshot](https://raw.github.com/kirrk/RubyWinter2014/master/portfolio/Portfolio/Portfolio.png "Screenshot of passing web page")
 
-![Screenshot](/portfolio/Portfolio/screenshots/Portfolio_1.png "Screenshot of passing portfolio scaffold")
+Portfolio integrating scaffolding:
+
+![Screenshot](https://raw.github.com/kirrk/RubyWinter2014/master/portfolio/Portfolio/screenshots/Portfolio_1.png "Screenshot of passing portfolio scaffold")
