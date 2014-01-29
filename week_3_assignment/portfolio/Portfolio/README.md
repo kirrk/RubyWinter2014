@@ -1,5 +1,6 @@
 
 Rails Week 3
+=============
 
 A simple welcome web page integrating BDD testing:
 
@@ -8,4 +9,4 @@ screenshots:
 
 Portfolio integrating scaffolding:
 
-![Screenshot](https://raw.github.com/kirrk/RubyWinter2014/master/portfolio/Portfolio/Portfolio_1.png "Screenshot of passing portfolio scaffold")
+![Screenshot](https://raw.github.com/kirrk/RubyWinter2014/master/portfolio/Portfolio/screenshots/Portfolio_1.png "Screenshot of passing portfolio scaffold")
